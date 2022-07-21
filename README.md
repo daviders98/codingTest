@@ -11,5 +11,5 @@
 
 **IMPORTANT NOTE**
 
-You can add files to the project and specify the path while in runtime or you can run the program with the pre-established destinations and drivers .txt files.
+You can add the txt files to the project and specify the path while in runtime or you can run the program with the pre-established destinations and drivers .txt files.
 
